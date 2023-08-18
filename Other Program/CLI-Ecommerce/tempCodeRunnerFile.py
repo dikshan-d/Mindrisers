@@ -1,1 +1,2 @@
-products = []
+
+def remove_product():
