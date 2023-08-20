@@ -1,2 +1,2 @@
-if username in user:
-        print("Username exist")
+
+    f = open("Other Program/Login/user_d
